@@ -30,7 +30,7 @@ export default function Home() {
           textDecoration: "none",
         }}
       >
-        Paga aquí – $56 000 CLP (≈ USD 59)
+        Recartify Early Acces – $56 000 CLP (≈ USD 59)
       </a>
 
       <p style={{ fontSize: "0.9rem", color: "#666", marginTop: 8 }}>
